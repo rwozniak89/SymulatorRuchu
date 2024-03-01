@@ -1,0 +1,13 @@
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Release\Unit2.exe.config
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Release\Unit2.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Release\Unit2.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.csproj.AssemblyReference.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.AddVehicleForm.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.Properties.Resources.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.StartForm.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.XUCVehicle.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.csproj.GenerateResource.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.csproj.CoreCompileInputs.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.csproj.CopyComplete
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Release\Unit2.pdb

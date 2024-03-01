@@ -1,0 +1,39 @@
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit2.exe.config
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit2.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit2.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.csproj.AssemblyReference.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.Properties.Resources.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.csproj.GenerateResource.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.csproj.CoreCompileInputs.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.StartForm.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.XUCVehicle.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.csproj.CopyComplete
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2\obj\Debug\Unit2.AddVehicleForm.resources
+E:\ECSC\C# 2\tmp\bin\Debug\Unit2.exe.config
+E:\ECSC\C# 2\tmp\bin\Debug\Unit2.exe
+E:\ECSC\C# 2\tmp\bin\Debug\Unit2.pdb
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.csproj.AssemblyReference.cache
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.AddVehicleForm.resources
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.Properties.Resources.resources
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.StartForm.resources
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.XUCVehicle.resources
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.csproj.GenerateResource.cache
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.csproj.CoreCompileInputs.cache
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.csproj.CopyComplete
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.exe
+E:\ECSC\C# 2\tmp\Units\Unit2\obj\Debug\Unit2.pdb
+C:\ECSC\RW\bin\Debug\Unit2.exe.config
+C:\ECSC\RW\bin\Debug\Unit2.exe
+C:\ECSC\RW\bin\Debug\Unit2.pdb
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.csproj.AssemblyReference.cache
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.AddVehicleForm.resources
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.Properties.Resources.resources
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.StartForm.resources
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.XUCVehicle.resources
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.csproj.GenerateResource.cache
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.csproj.CoreCompileInputs.cache
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.csproj.CopyComplete
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.exe
+C:\ECSC\RW\Units\Unit2\obj\Debug\Unit2.pdb

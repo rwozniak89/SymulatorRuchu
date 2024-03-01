@@ -1,0 +1,22 @@
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit1.exe.config
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit1.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit1.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.csproj.AssemblyReference.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.Properties.Resources.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.csproj.GenerateResource.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.csproj.CoreCompileInputs.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.exe
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.StartForm.resources
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit1\obj\Debug\Unit1.csproj.CopyComplete
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.csproj.AssemblyReference.cache
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.Properties.Resources.resources
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.StartForm.resources
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.csproj.GenerateResource.cache
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.csproj.CoreCompileInputs.cache
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.exe
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.pdb
+C:\ECSC\RW\bin\Debug\Unit1.exe.config
+C:\ECSC\RW\bin\Debug\Unit1.exe
+C:\ECSC\RW\bin\Debug\Unit1.pdb
+C:\ECSC\RW\Units\Unit1\obj\Debug\Unit1.csproj.CopyComplete

@@ -1,0 +1,18 @@
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit2.Support.dll
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Debug\Unit2.Support.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.AssemblyReference.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.CoreCompileInputs.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Debug\Unit2.Support.dll
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Debug\Unit2.Support.pdb
+E:\ECSC\C# 2\tmp\bin\Debug\Unit2.Support.dll
+E:\ECSC\C# 2\tmp\bin\Debug\Unit2.Support.pdb
+E:\ECSC\C# 2\tmp\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.AssemblyReference.cache
+E:\ECSC\C# 2\tmp\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.CoreCompileInputs.cache
+E:\ECSC\C# 2\tmp\Units\Unit2.Support\obj\Debug\Unit2.Support.dll
+E:\ECSC\C# 2\tmp\Units\Unit2.Support\obj\Debug\Unit2.Support.pdb
+C:\ECSC\RW\bin\Debug\Unit2.Support.dll
+C:\ECSC\RW\bin\Debug\Unit2.Support.pdb
+C:\ECSC\RW\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.AssemblyReference.cache
+C:\ECSC\RW\Units\Unit2.Support\obj\Debug\Unit2.Support.csproj.CoreCompileInputs.cache
+C:\ECSC\RW\Units\Unit2.Support\obj\Debug\Unit2.Support.dll
+C:\ECSC\RW\Units\Unit2.Support\obj\Debug\Unit2.Support.pdb

@@ -1,0 +1,6 @@
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Release\Unit2.Support.dll
+D:\Users\Sławomir\ECSC\C#\Cz. 2\bin\Release\Unit2.Support.pdb
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Release\Unit2.Support.csproj.AssemblyReference.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Release\Unit2.Support.csproj.CoreCompileInputs.cache
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Release\Unit2.Support.dll
+D:\Users\Sławomir\ECSC\C#\Cz. 2\Units\Unit2.Support\obj\Release\Unit2.Support.pdb
